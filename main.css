@@ -1,0 +1,45 @@
+/*
+Color Palette:
+dark pink #f8d3c5
+lighter pink #fceee9
+light green #dde6d5
+medium green #a3b889
+darker green #667b68
+*/
+
+/* Set Navbar colors */
+
+.navbar-custom{
+  color:black;
+  font-weight: bold;
+  background-color: #667b68;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+/* Set Colors for the jumbotron */
+.jumbotron{
+  background-color: #FFFFFF;
+  padding-top: 100px;
+}
+
+.jumbotron h1{
+  color: #667b68;
+  text-align: center;
+  font-weight:bold
+}
+
+/* Set Colors for the headings*/
+
+h2, h4{
+  color: #667b68;
+}
+
+/* Card formats */
+
+.card{
+padding-left: 10px;
+
+}
